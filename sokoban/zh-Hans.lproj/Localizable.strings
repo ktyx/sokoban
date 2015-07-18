@@ -1,0 +1,28 @@
+/*
+ Localizable.strings
+ sokoban
+ 
+ Created by daxin on 13-7-16.
+ Copyright (c) 2013年 daxin. All rights reserved.
+ */
+
+
+"APP_NAME" = "推箱子";
+
+
+//SuccessAlertView
+"RIGHT_ANSWER" = "猜对啦!";
+"NEXT" = "下一个";
+
+//TipAlertView
+"TIP_TITLE" = "提示";
+"OK" = "确定";
+"Cancel" = "取消";
+
+
+"ANSWER" = "答案";
+"complete %.2f%%" = "完成 %.2f%%";
+"REPLAY_GAME_COMFIRM" = "重新开始游戏？";
+
+"LEVEL %d" = "第 %d 关";
+"restart?" = "重新开始?";
